@@ -12,7 +12,8 @@ This project demonstrates an animated navigation bar using HTML and CSS.
 
 ## Screenshot
 
-![Navbar](images/navbar.png)
+![Navbar](Screenshot (4).png)
+
 
 ## Usage
 
