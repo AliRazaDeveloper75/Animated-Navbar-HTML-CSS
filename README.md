@@ -11,7 +11,7 @@ This project demonstrates an animated navigation bar using HTML and CSS.
 - Settings
 
 ## Screenshot
-![Navbar](https://github.com/AliRazaDeveloper75/Animated-Navbar-HTML-CSS/blob/main/images/navbar.png)
+![Navbar](https://github.com/AliRazaDeveloper75/Animated-Navbar-HTML-CSS/blob/main/Screenshot (4).png)
 
 
 
